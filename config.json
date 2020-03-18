@@ -1,0 +1,9 @@
+{
+  "hosts": [
+    "github.com",
+    "assets-cdn.github.com",
+    "github.global.ssl.fastly.net"
+  ],
+  "debug": false,
+  "multipleResults": false
+}
